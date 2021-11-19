@@ -1,16 +1,18 @@
-### Hi there 👋
+# Dedac
+_This is a profile_
 
-<!--
-**Dedac/dedac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/5066968/142471326-d8074637-d892-4d6b-af18-39667a59a170.jpg" width="50" height="50">
 
-Here are some ideas to get you started:
+I am Richard Goforth, Solutions Engineer Extrodinaire
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏃 🏊‍♂️ 
+
+🎼 🎺 🎻
+
+I work [here!](https://github.com/github)
+
+I also made these: [Video Courses](https://www.linkedin.com/learning/instructors/richard-goforth)
+
+Find me on
+- [Twitter](https://twitter.com/RichGoforth)
+- [LinkedIn](https://www.linkedin.com/in/richgoforth/)
